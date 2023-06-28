@@ -19,7 +19,7 @@ Machine Learning, Natural Language Processing, Computer Vision, Software Develop
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![java](https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=oracle=red) 
 ![C](https://img.shields.io/badge/programming%20language-00599C?style=for-the-badge&logo=c&logoColor=white)
 
