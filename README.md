@@ -4,6 +4,10 @@ I'm a 21-year-old Computer Scientist 💻.
 I'm passionate about technology and programming, and am always looking for opportunities to learn and grow 🌱
 Thanks for stopping by, and happy coding! 
 
+
+Interests 🧠:
+Machine Learning, Natural Language Processing, Computer Vision, Software Development
+
 <div align="center">
 
 # 💻 Tech Stack:
@@ -21,7 +25,9 @@ Thanks for stopping by, and happy coding!
 
 # Education
 
-| | | | |
-|:--:|:--:|:--:|:--:|
+
+
 | <img width="75" src="./columbia.png" alt="Columbia"></img> | [Columbia University](https://www.columbia.edu/) | B.S. in Computer Science & Electrical Engineering | 2019-2023 |
+|:--|:--:|:--:|:--:|
+
 </div>
