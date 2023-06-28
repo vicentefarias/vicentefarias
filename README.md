@@ -1,6 +1,6 @@
 
 # <p align="center">< 👋 Hi there, I'm Vicente! /></p>
-I'm a 21-year-old 🇨🇱🇺🇸 Computer Scientist 💻.
+I'm a 21-year-old Computer Scientist 💻.
 I'm passionate about technology and programming, and am always looking for opportunities to learn and grow 🌱
 Thanks for stopping by, and happy coding! 
 
