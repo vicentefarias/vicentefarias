@@ -1,7 +1,6 @@
 
 # <p align="center">< 👋 Hi there, I'm Vicente! /></p>
-I'm a 21-year-old Computer Scientist 💻.
-I'm passionate about technology and programming, and am always looking for opportunities to learn and grow 🌱
+I'm passionate about technology, programming, machine learning, and web development!
 Thanks for stopping by, and happy coding! 
 
 
@@ -18,10 +17,12 @@ Machine Learning, Natural Language Processing, Computer Vision, Software Develop
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
+![C](https://img.shields.io/badge/programming%20language-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
 ![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![java](https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=oracle=red) 
-![C](https://img.shields.io/badge/programming%20language-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 
 # Education
 
